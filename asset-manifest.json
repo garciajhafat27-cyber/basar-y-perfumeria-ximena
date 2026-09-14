@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/basar-y-perfumeria-ximena/static/css/main.a104fd32.css",
-    "main.js": "/basar-y-perfumeria-ximena/static/js/main.fe5acc94.js",
+    "main.js": "/basar-y-perfumeria-ximena/static/js/main.5106b690.js",
     "static/js/453.bcca210c.chunk.js": "/basar-y-perfumeria-ximena/static/js/453.bcca210c.chunk.js",
     "index.html": "/basar-y-perfumeria-ximena/index.html",
     "main.a104fd32.css.map": "/basar-y-perfumeria-ximena/static/css/main.a104fd32.css.map",
-    "main.fe5acc94.js.map": "/basar-y-perfumeria-ximena/static/js/main.fe5acc94.js.map",
+    "main.5106b690.js.map": "/basar-y-perfumeria-ximena/static/js/main.5106b690.js.map",
     "453.bcca210c.chunk.js.map": "/basar-y-perfumeria-ximena/static/js/453.bcca210c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a104fd32.css",
-    "static/js/main.fe5acc94.js"
+    "static/js/main.5106b690.js"
   ]
 }
